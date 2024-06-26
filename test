@@ -6,3 +6,4 @@ response = client.terminate_instances(
         'i-035ed6d600df0b8b8',
     ],
 )
+hiii
